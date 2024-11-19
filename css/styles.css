@@ -179,7 +179,7 @@ hr {
 
 /* Adjust Facebook and LinkedIn link colors for better visibility */
 .unix-dark-theme a[href*="facebook"], .unix-dark-theme a[href*="linkedin"] {
-    color: #02585b; /* Facebook color */
+    color: #000000; /* Facebook color */
 }
 
 .unix-dark-theme a[href*="linkedin"]:hover, .unix-dark-theme a[href*="facebook"]:hover {
